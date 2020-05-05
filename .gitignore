@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 [200~# Created by https://www.gitignore.io/api/python,windows,jupyternotebooks
+=======
+[200~
+# Created by https://www.gitignore.io/api/python,windows,jupyternotebooks
+>>>>>>> hotfix
 # Edit at https://www.gitignore.io/?templates=python,windows,jupyternotebooks
 
 ### JupyterNotebooks ###
